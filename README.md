@@ -5,3 +5,5 @@ Given an archetype of a hitter (ex, a power hitter who pulls balls to left field
 
 ## Usage
 As of 10 March 2022, the project has reached the Alpha stage--basic usage is possible via directly editing main.py.
+
+![Example](example.gif?raw=true "Title")
